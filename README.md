@@ -1,6 +1,6 @@
 # Borrowings Service
 
-This is one of the service that implemented for learning twelve-factor-app-framework.
+This is one of the service that implemented for learning `twelve-factor-app-framework`.
 
 ## Borrowing Service Endpoints and Database Schema
 
